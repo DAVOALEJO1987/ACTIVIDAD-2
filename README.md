@@ -1,10 +1,24 @@
-# ACTIVIDAD-2
-Dataset para la Actividad 2, ML supervisado con clasificacion binaria
-About Dataset
+# **Actividad 2 - Análisis del proceso de ML supervisado de clasificación binaria de caso práctico**
+**Estudiante:** David Alejandro Narvaez Mejia
+
+**Fecha:** 05/03/2025
+
+**Materia:** Aprenizaje Automatico - MIAR0525
+
+**Profesor:** Gladys Villegas R. PhD(C)
+
+**Referencias:**
+
+[1] https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+
+[2] Géron, A. (2022). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (3rd ed.). O'Reilly Media.
+
+[3] Codigo Fuente: Modelos_Supervisados_labGuiado.ipynb
+
+**About Dataset**
 This dataset provides a detailed overview of gym members' exercise routines, physical attributes, and fitness metrics. It contains 973 samples of gym data, including key performance indicators such as heart rate, calories burned, and workout duration. Each entry also includes demographic data and experience levels, allowing for comprehensive analysis of fitness patterns, athlete progression, and health trends.
 
-Key Features:
-
+**Key Features:**
 Age: Age of the gym member.
 Gender: Gender of the gym member (Male or Female).
 Weight (kg): Member’s weight in kilograms.
@@ -21,4 +35,7 @@ Workout_Frequency (days/week): Number of workout sessions per week.
 Experience_Level: Level of experience, from beginner (1) to expert (3).
 BMI: Body Mass Index, calculated from height and weight.
 This dataset is ideal for data scientists, health researchers, and fitness enthusiasts interested in studying exercise habits, modeling fitness progression, or analyzing the relationship between demographic and physiological data. With a wide range of variables, it offers insights into how different factors affect workout intensity, endurance, and overall health.
-[1] Referencia https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+[1] 
+
+
+
